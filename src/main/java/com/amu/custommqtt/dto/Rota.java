@@ -3,7 +3,7 @@ package com.amu.custommqtt.dto;
 public class Rota {
     private String[][] rota;
     private int baslangic;
-
+    private int al;
     public Rota() {
     }
 
